@@ -10,3 +10,5 @@ A repository that contains my tasks that I completed during my training at ITI
    Preview (https://ahmedmikkawe.github.io/cookiesTask/)
 5. [Video Player](https://github.com/AhmedMikkawe/videoPlayer)  
    Preview (https://ahmedmikkawe.github.io/videoPlayer/)
+6. [Local Storage](https://github.com/AhmedMikkawe/localStorageTask)  
+   Preview (https://ahmedmikkawe.github.io/localStorageTask/)
